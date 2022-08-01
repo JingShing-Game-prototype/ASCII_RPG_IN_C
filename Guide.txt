@@ -1,0 +1,5 @@
+Arrow key to decide your direction.
+Ctrl open command menu.(-999)
+Tab to cancel actions;
+
+command_menu: -1 to quit, -2 to save, -3 to load, -4 to change skin, -5 to delete save_file, -6 Change key-in interval time;

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1638203028 source:j:\rpg\ascii rpg of mine\ascii_rpg\main.c
+	"RPG_Funcs.h"
+
+1638206300 j:\rpg\ascii rpg of mine\ascii_rpg\rpg_funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
+1638154340 source:d:\rpg\ascii rpg of mine\ascii_rpg\main.c
+	"RPG_Funcs.h"
+
+1638157900 d:\rpg\ascii rpg of mine\ascii_rpg\rpg_funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
+1638203028 source:j:\coding\rpg\ascii rpg of mine\ascii_rpg\main.c
+	"RPG_Funcs.h"
+
+1638289736 j:\coding\rpg\ascii rpg of mine\ascii_rpg\rpg_funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
+1642179315 source:h:\coding\mine\rpg\ascii rpg of mine\ascii_rpg\main.c
+	"RPG_Funcs.h"
+
+1642179336 h:\coding\mine\rpg\ascii rpg of mine\ascii_rpg\rpg_funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
+1642179315 source:e:\coding\mine\rpg\ascii rpg of mine\ascii_rpg\main.c
+	"RPG_Funcs.h"
+
+1642179336 e:\coding\mine\rpg\ascii rpg of mine\ascii_rpg\rpg_funcs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+
