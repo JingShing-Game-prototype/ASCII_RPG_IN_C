@@ -2,9 +2,9 @@
 A old rpg made for experiment.
 
 need code block.
-you need to set follow step below
+you need to set follow step below.
 you need to link winmm Library.
 
-setting/compiler/Linker Settings
-add winmm on left textbox
-fill -static on right textbox
+setting/compiler/Linker Settings.
+add winmm on left textbox.
+fill -static on right textbox.
