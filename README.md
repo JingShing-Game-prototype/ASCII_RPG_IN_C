@@ -11,3 +11,5 @@ you need to link winmm Library.
 2. add winmm on left textbox.
 
 3. fill -static on right textbox.
+
+一個很久以前做的RPG，大概2021左右，沒怎麼碰過了，但會承載這一個作品的理想，到之後的引擎中。
