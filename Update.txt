@@ -1,0 +1,13 @@
+ver 2.0 use struct rather than array to save the file.
+ver 3.0 save system based on structure.But skin cannot be saved.
+fixed the save bug. Now can save skin;
+
+upgrade the save form and now can detect and delete save_file.
+
+Now NPC can move
+
+Add act select feature;
+ver4.0 NPC now can interact.
+ver5.0 Now can load different maps.
+
+Now can use key to change act mode: W to move, T to talk, A to attack.
